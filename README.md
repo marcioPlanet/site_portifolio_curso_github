@@ -7,6 +7,10 @@ Nesse curso você vai dominar todo git e github do zero ao profissional.
 * Aprendendo sobre **repositórios**
 * Trabalhando com **branches**.
 
+1. Criar branch
+2. Listando as branchs
+3. Mudando para outra branch
+
 
 
 ### Rede social:
