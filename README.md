@@ -29,7 +29,8 @@ Nesse curso você vai dominar todo git e github do zero ao profissional.
 
 >Segunda area destacada
 
-**Comandos para rodar o projeto**
+
+### Comandos para rodar o projeto
 ```
 npm start
 ```
@@ -59,7 +60,8 @@ function showMensages(mensagem) {
 
 Propriedade | Descrição 
 ----------- | ---------
-name | Para informar o nome do usuário
+name | Para informar o **nome** do usuário
 size | Para defiir o tamanho do campo
-background | Cor de fundo da area em HEX
+background | Cor de fundo da area em _HEX_
 onPress | Função chamada quando clicar no botão
+
