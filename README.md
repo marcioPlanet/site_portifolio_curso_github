@@ -24,4 +24,30 @@ Nesse curso você vai dominar todo git e github do zero ao profissional.
 
 >Segunda area destacada
 
+**Comandos para rodar o projeto**
+```
+npm start
+```
 
+**Exemplo de script**
+```js
+function showMensages(mensagem) {
+    alert('>' + mensagem);
+}
+```
+
+**Exemplo de html**
+```html
+<h1>
+    Titulo do Componenete
+    <span>Curso git </span>
+</h1>
+```
+
+**Exemplo de css**
+```css
+.titulo{
+    background-color:#fff;
+    color: #ff0000;
+}
+```
