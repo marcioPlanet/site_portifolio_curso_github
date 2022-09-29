@@ -6,6 +6,7 @@ Nesse curso você vai dominar todo git e github do zero ao profissional.
 - [x] Site responsivo.
 - [ ] Login com facebook.
 - [ ] Página sobre a empresa.
+
 ## Módulos:
 - Entendendo o que é **git**
     - Praticando
@@ -56,3 +57,9 @@ function showMensages(mensagem) {
 }
 ```
 
+Propriedade | Descrição 
+----------- | ---------
+name | Para informar o nome do usuário
+size | Para defiir o tamanho do campo
+background | Cor de fundo da area em HEX
+onPress | Função chamada quando clicar no botão
